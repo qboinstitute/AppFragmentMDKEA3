@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/navinicio">
+    <fragment
+        android:id="@+id/navinicio"
+        android:name="com.qbo.appfragmentmdkea3.ui.InicioFragment"
+        android:label="@string/valnavinicio"
+        tools:layout="@layout/fragment_inicio" />
+    <fragment
+        android:id="@+id/navgaleria"
+        android:name="com.qbo.appfragmentmdkea3.ui.GaleriaFragment"
+        android:label="@string/valnavgaleria"
+        tools:layout="@layout/fragment_galeria" />
+    <fragment
+        android:id="@+id/navnotificaciones"
+        android:name="com.qbo.appfragmentmdkea3.ui.NotificacionesFragment"
+        android:label="@string/valnavnotificaciones"
+        tools:layout="@layout/fragment_notificaciones" />
+</navigation>
