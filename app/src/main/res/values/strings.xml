@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppFragmentMDKEA3</string>
+    <string name="valtitulo">MATERIAL DESIGN</string>
+    <string name="valetusuario">Ingrese su usuario</string>
+    <string name="valetpassword">Ingrese su password</string>
+    <string name="valbtnlogin">INGRESAR</string>
+</resources>
