@@ -13,4 +13,8 @@
     <string name="valnavinicio">Inicio</string>
     <string name="valnavgaleria">Galería</string>
     <string name="valnavnotificaciones">Notificaciones</string>
+    <string name="valtitulofragment">FORMULARIO FRAGMENT</string>
+    <string name="valetnota1">Ingrese nota 1</string>
+    <string name="valetnota2">Ingrese nota 2</string>
+    <string name="valbtncalcular">CALCULAR</string>
 </resources>
